@@ -1,0 +1,22 @@
+{
+  "id" : 1,
+  "countryName" : "China",
+  "establishTime" : "1949-10-01",
+  "provinces" : [ {
+    "id" : 1,
+    "name" : "GD",
+    "birthDate" : "2018-12-05",
+    "cities" : [ {
+      "id" : 1,
+      "cityName" : "gz"
+    }, {
+      "id" : 2,
+      "cityName" : "dg"
+    } ]
+  } ],
+  "lakes" : [ "Qinghai Lake", "Poyang Lake", "Dongting Lake", "Taihu Lake" ],
+  "forest" : {
+    "no.2" : "xxal",
+    "no.1" : "dxal"
+  }
+}

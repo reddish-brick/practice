@@ -1,0 +1,222 @@
+{
+  "name": "wuwii",
+  "age": 23,
+  "city": "WuHan",
+  "hobby": [
+    "骑行",
+    "跑步",
+    "足球"
+  ],
+  "contacts": [
+    {
+      "phone": "18772383543",
+      "email": "k@wuwii.com"
+    },
+    {
+      "phone": "12345678912",
+      "email": "1075199251@qq.com"
+    }
+  ],
+  "businessLineNames": [
+    {
+      "salesOrganization": "4528",
+      "distributionChannel": "-1",
+      "division": "-1",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Global Marine Lubes"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "01",
+      "division": "02",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Fuels Retail"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "01",
+      "division": "04",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Finished Lubes"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "01",
+      "division": "09",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Retail Branded Wholesaler"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "02",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Fuels Wholesale"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "03",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Supply LPG"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "04",
+      "salesGroup": "S07",
+      "customerGroup": "-1",
+      "businessLineName": "Aviation Lubes"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "04",
+      "salesGroup": "S05",
+      "customerGroup": "-1",
+      "businessLineName": "Domestic Marine Lubes"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "04",
+      "salesGroup": "-1",
+      "customerGroup": "W0",
+      "businessLineName": "Basestocks And Specialties"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "04",
+      "salesGroup": "-1",
+      "customerGroup": "W1",
+      "businessLineName": "Basestocks And Specialties"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "04",
+      "salesGroup": "-1",
+      "customerGroup": "W2",
+      "businessLineName": "Basestocks And Specialties"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "04",
+      "salesGroup": "-1",
+      "customerGroup": "W3",
+      "businessLineName": "Basestocks And Specialties"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "04",
+      "salesGroup": "-1",
+      "customerGroup": "W4",
+      "businessLineName": "Basestocks And Specialties"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "04",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Lubes"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "05",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Aviation Fuels"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "06",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Marine Fuels"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "08",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Refinery Products"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "09",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Fuels And Non-Petrol/Services"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "10",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Asphalt"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "11",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Supply Other Product"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "13",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Supply Chemicals"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "03",
+      "division": "-1",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Non-Retail"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "04",
+      "division": "13",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Supply Chemicals"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "04",
+      "division": "-1",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Supply"
+    },
+    {
+      "salesOrganization": "-1",
+      "distributionChannel": "-1",
+      "division": "-1",
+      "salesGroup": "-1",
+      "customerGroup": "-1",
+      "businessLineName": "Others"
+    }
+  ]
+}
