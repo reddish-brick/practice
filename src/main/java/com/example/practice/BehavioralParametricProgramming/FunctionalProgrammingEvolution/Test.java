@@ -1,10 +1,10 @@
-package com.example.practice.BehavioralParametricProgramming;
+package com.example.practice.BehavioralParametricProgramming.FunctionalProgrammingEvolution;
 
 import java.util.Arrays;
 import java.util.List;
 
-import static com.example.practice.BehavioralParametricProgramming.FilterHelper.filter;
-import static com.example.practice.BehavioralParametricProgramming.FilterHelper.filterApples;
+import static com.example.practice.BehavioralParametricProgramming.FunctionalProgrammingEvolution.FilterHelper.filter;
+import static com.example.practice.BehavioralParametricProgramming.FunctionalProgrammingEvolution.FilterHelper.filterApples;
 
 public class Test {
 

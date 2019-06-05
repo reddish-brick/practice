@@ -1,4 +1,4 @@
-package com.example.practice.BehavioralParametricProgramming;
+package com.example.practice.BehavioralParametricProgramming.FunctionalProgrammingEvolution;
 
 import java.util.ArrayList;
 import java.util.List;

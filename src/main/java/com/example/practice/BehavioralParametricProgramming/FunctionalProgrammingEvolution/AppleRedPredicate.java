@@ -1,4 +1,4 @@
-package com.example.practice.BehavioralParametricProgramming;
+package com.example.practice.BehavioralParametricProgramming.FunctionalProgrammingEvolution;
 
 public class AppleRedPredicate implements ApplePredicate {
 

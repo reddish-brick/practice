@@ -1,4 +1,4 @@
-package com.example.practice.BehavioralParametricProgramming;
+package com.example.practice.BehavioralParametricProgramming.FunctionalProgrammingEvolution;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
