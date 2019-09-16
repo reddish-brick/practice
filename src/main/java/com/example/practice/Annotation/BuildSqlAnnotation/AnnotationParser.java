@@ -1,4 +1,4 @@
-package com.example.practice.CustomAnnotation.BuildSqlAnnotation;
+package com.example.practice.Annotation.BuildSqlAnnotation;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

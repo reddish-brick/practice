@@ -1,7 +1,7 @@
-package com.example.practice.CustomAnnotation;
+package com.example.practice.Annotation;
 
-import com.example.practice.CustomAnnotation.LogAnnotation.LogAnnotation;
-import com.example.practice.CustomAnnotation.PermissionAnnotation.PermissionContextAnnotation;
+import com.example.practice.Annotation.LogAnnotation.LogAnnotation;
+import com.example.practice.Annotation.PermissionAnnotation.PermissionContextAnnotation;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

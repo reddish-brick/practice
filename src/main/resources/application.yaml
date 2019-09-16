@@ -25,15 +25,3 @@ spring:
       hibernate.jdbc.lob.non_contextual_creation: true
       hibernate.temp.use_jdbc_metadata_defaults: false
       hibernate.enable_lazy_load_no_trans: true
-
-# actuator
-management:
-  endpoint:
-    health:
-      show-details: "ALWAYS"
-    restart:
-      enabled: true
-  endpoints:
-    web:
-      exposure:
-        include: health,info,prometheus,env

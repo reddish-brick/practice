@@ -1,4 +1,4 @@
-package com.example.practice.CustomAnnotation.PermissionAnnotation;
+package com.example.practice.Annotation.PermissionAnnotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

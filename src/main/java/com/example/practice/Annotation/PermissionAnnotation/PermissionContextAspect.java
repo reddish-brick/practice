@@ -1,4 +1,4 @@
-package com.example.practice.CustomAnnotation.PermissionAnnotation;
+package com.example.practice.Annotation.PermissionAnnotation;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.Aspect;
@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 public class PermissionContextAspect {
 
   //只拦截标有注解 PermissionContextAnnotation 的方法
-  @Pointcut("@annotation(com.example.practice.CustomAnnotation.PermissionAnnotation.PermissionContextAnnotation)")
+  @Pointcut("@annotation(com.example.practice.Annotation.PermissionAnnotation.PermissionContextAnnotation)")
   public void checkPermission() {
   }
 

@@ -1,4 +1,4 @@
-package com.example.practice.CustomAnnotation.LogAnnotation;
+package com.example.practice.Annotation.LogAnnotation;
 
 import java.lang.reflect.Field;
 import org.aspectj.lang.JoinPoint;
@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 @Aspect
 public class LogAspect {
 
-  @Pointcut("@annotation(com.example.practice.CustomAnnotation.LogAnnotation.LogAnnotation)")
+  @Pointcut("@annotation(com.example.practice.Annotation.LogAnnotation.LogAnnotation)")
   private void cut() {
   }
 

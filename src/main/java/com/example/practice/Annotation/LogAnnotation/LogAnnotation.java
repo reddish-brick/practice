@@ -1,4 +1,4 @@
-package com.example.practice.CustomAnnotation.LogAnnotation;
+package com.example.practice.Annotation.LogAnnotation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package com.example.practice.CustomAnnotation.BuildSqlAnnotation;
+package com.example.practice.Annotation.BuildSqlAnnotation;
 
 @ClassAnnotation("product_model")
 // 注解在类上，标识该实体对应的数据库表名
